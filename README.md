@@ -36,7 +36,7 @@ This is not my main GitHub profile, but it serves as a space for me to work on s
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Contact
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]([https://pytorch.org/](https://discordapp.com/users/230346419893043201/))
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/230346419893043201/)
 
 ## Stats
 <p align=center>
