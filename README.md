@@ -19,15 +19,15 @@ This is not my main GitHub profile, but it serves as a space for me to work on s
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=zenith-stardragon&theme=ayu-mirage&border=61dafb&hide_border=true" alt="zenith-stardragon" />
+      <img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=zenith-stardragon&theme=ayu-mirage&border=61dafb&hide_border=true" alt="zenith-stardragon" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=zenith-stardragon&show_icons=true&theme=ayu-mirage&border_color=61dafb&hide_border=true" />
+      <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=zenith-stardragon&show_icons=true&theme=ayu-mirage&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
   <div align=center>
-    <img src="https://activity-graph.herokuapp.com/graph?username=zenith-stardragon&bg_color=1f2531&color=73cefe&line=f3ca7d&point=c6c9c2&hide_border=true" width="100%"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=zenith-stardragon&bg_color=1f2531&color=73cefe&line=f3ca7d&point=c6c9c2&hide_border=true" width="90%"/>
   </div>
 </p>
 <hr>
