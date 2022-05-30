@@ -27,7 +27,7 @@ This is not my main GitHub profile, but it serves as a space for me to work on s
   </div>
   <br>
   <div align=center>
-    <img src="https://activity-graph.herokuapp.com/graph?username=zenith-stardragon&bg_color=1f2531&color=73cefe&line=f3ca7d&point=c6c9c2&hide_border=true" width="90%"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=zenith-stardragon&bg_color=1f2531&color=73cefe&line=f3ca7d&point=c6c9c2&hide_border=true" width="95%"/>
   </div>
 </p>
 <hr>
