@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://media.discordapp.net/attachments/905531018684006430/980960976427962409/103_-_30.06.21_.png" alt="Marton Lederer" />
+</h1>
 
-<!--
-**zenith-stardragon/zenith-stardragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my cave!
+I'm Zeni, an engineering student and researcher from the United States.
 
-Here are some ideas to get you started:
+This is not my main GitHub profile, but it serves as a space for me to work on some fun personal projects from time to time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 Python, Java
+- ⚙️ PyTorch, PyTorch Lightning, TensorFlow, Keras
+
+## Contact
+- [sablewind](https://www.furaffinity.net/user/sablewind/) on FurAffinity
+- [Zenith Starborn#0001](./) on Discord
