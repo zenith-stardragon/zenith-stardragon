@@ -5,7 +5,7 @@
 ## Welcome to my cave!
 I'm Zenith, an engineering student and researcher from the United States.
 
-This is not my main GitHub profile, but it serves as a space for me to work on some fun personal projects from time to time and practice Leetcode.
+This is not my main GitHub profile, but it serves as a space for me to work on some fun personal projects from time to time.
 
 I also have some private repositories for the purpose of sharing code that isn't meant for public view! If you'd like to see these and have a valid reason, feel free to add me on Discord and request my gitfront.io link.
 
