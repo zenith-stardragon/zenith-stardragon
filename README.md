@@ -3,7 +3,7 @@
 </h1>
 
 ## Welcome to my cave!
-I'm Zenith, an engineering student and researcher from the United States.
+I'm Zenith, an engineering student and software developer from the United States.
 
 This is not my main GitHub profile, but it serves as a space for me to work on some fun personal projects from time to time.
 
